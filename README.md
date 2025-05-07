@@ -5,7 +5,7 @@ A full-stack Task Management System for small teams to manage, assign, and track
 
 
 # Table of Contents
--[Introduction](#introduction)
+- [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
