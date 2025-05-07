@@ -132,7 +132,6 @@ npm run dev
 2. Add `NEXT_PUBLIC_API_URL` as the Render backend URL.
 3. Deploy!
 
----
 
 ## 📝 Note
 
@@ -140,13 +139,11 @@ npm run dev
 * AI tools were used to generate boilerplate and enhance productivity.
 * Further improvements like RBAC, WebSocket notifications, and tests can be added later.
 
----
 
 ## 🧾 License
 
 This project is licensed under the MIT License — you're free to use, modify, and distribute it.
 
----
 
 ## 🙌 Acknowledgements
 
