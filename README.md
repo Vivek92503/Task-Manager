@@ -1,10 +1,10 @@
 
-# 📝 Task Management System
+# Task Management System
 
 A full-stack Task Management System for small teams to manage, assign, and track tasks efficiently. Built using **Next.js**, **Express.js**, and **MongoDB** with features like authentication, task CRUD, user assignment, and filtering.
 
 
-# Table of Contents
+# 📝 Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
