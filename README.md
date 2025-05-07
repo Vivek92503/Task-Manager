@@ -3,13 +3,12 @@
 
 A full-stack Task Management System for small teams to manage, assign, and track tasks efficiently. Built using **Next.js**, **Express.js**, and **MongoDB** with features like authentication, task CRUD, user assignment, and filtering.
 
----
+
 
 ## 📌 Introduction
 
 This application is designed to help teams organize tasks, assign responsibilities, track deadlines, and streamline collaboration in a simple yet effective interface. It supports user authentication, team-based task assignments, and customizable filters for improved task visibility.
 
----
 
 ## 🚀 Features
 
@@ -21,7 +20,6 @@ This application is designed to help teams organize tasks, assign responsibiliti
 - 🔍 Search by Title/Description
 - 🧰 Filter by Status, Priority, Due Date
 
----
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +28,6 @@ This application is designed to help teams organize tasks, assign responsibiliti
 - Database: **MongoDB**
 - Hosting: **Vercel (Frontend)**, **Render (Backend)**
 
----
 
 ## 🧱 Tech Stack
 
@@ -42,7 +39,6 @@ This application is designed to help teams organize tasks, assign responsibiliti
 | Auth       | JWT (JSON Web Tokens) |
 | Hosting    | Vercel (FE), Render (BE) |
 
----
 
 ## 📁 Folder Structure
 
