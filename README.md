@@ -4,6 +4,16 @@
 A full-stack Task Management System for small teams to manage, assign, and track tasks efficiently. Built using **Next.js**, **Express.js**, and **MongoDB** with features like authentication, task CRUD, user assignment, and filtering.
 
 
+# Table of Contents
+-[Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Folder Structure](#folder-structure)
+- [Setup Instructions](#setup-instructions)
+- [Deployment](#deployment)
+- [Notes](#notes)
+- [License](#license)
+- [Acknowledgements](aAcknowledgements)
 
 ## 📌 Introduction
 
@@ -63,7 +73,6 @@ task-manager-fullstack/
 └── README.md
 ```
 
----
 
 ## ⚙️ Setup Instructions
 
