@@ -15,12 +15,12 @@ A full-stack Task Management System for small teams to manage, assign, and track
 - [License](#license)
 - [Acknowledgements](aAcknowledgements)
 
-## 📌 Introduction
+# 📌 Introduction
 
 This application is designed to help teams organize tasks, assign responsibilities, track deadlines, and streamline collaboration in a simple yet effective interface. It supports user authentication, team-based task assignments, and customizable filters for improved task visibility.
 
 
-## 🚀 Features
+# 🚀 Features
 
 - 🔐 User Authentication (Register/Login)
 - 🧾 Full CRUD for Tasks (Create, Read, Update, Delete)
@@ -31,7 +31,7 @@ This application is designed to help teams organize tasks, assign responsibiliti
 - 🧰 Filter by Status, Priority, Due Date
 
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Frontend: **Next.js**, **Tailwind CSS**
 - Backend: **Node.js**, **Express.js**
@@ -39,7 +39,7 @@ This application is designed to help teams organize tasks, assign responsibiliti
 - Hosting: **Vercel (Frontend)**, **Render (Backend)**
 
 
-## 🧱 Tech Stack
+# 🧱 Tech Stack
 
 | Layer      | Technology       |
 |------------|------------------|
@@ -50,7 +50,7 @@ This application is designed to help teams organize tasks, assign responsibiliti
 | Hosting    | Vercel (FE), Render (BE) |
 
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
 ```
 task-manager-fullstack/
@@ -74,16 +74,16 @@ task-manager-fullstack/
 ```
 
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
-### 1. Clone Repository
+## 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/task-manager-fullstack.git
 cd task-manager-fullstack
 ```
 
-### 2. Backend Setup (Express.js)
+## 2. Backend Setup (Express.js)
 
 ```bash
 cd backend
@@ -104,7 +104,7 @@ JWT_SECRET=your_jwt_secret
 node server.js
 ```
 
-### 3. Frontend Setup (Next.js)
+## 3. Frontend Setup (Next.js)
 
 ```bash
 cd frontend
@@ -125,9 +125,9 @@ npm run dev
 
 ---
 
-## ☁️ Deployment
+# ☁️ Deployment
 
-### Backend (Render)
+## Backend (Render)
 
 1. Create a new Web Service.
 2. Link GitHub repo → backend folder.
@@ -135,26 +135,26 @@ npm run dev
 4. Build command: `npm install`
 5. Start command: `node server.js`
 
-### Frontend (Vercel)
+## Frontend (Vercel)
 
 1. Create a new Vercel project from the repo → frontend folder.
 2. Add `NEXT_PUBLIC_API_URL` as the Render backend URL.
 3. Deploy!
 
 
-## 📝 Note
+# 📝 Note
 
 * This project is built with a fresher-friendly architecture and simple implementation.
 * AI tools were used to generate boilerplate and enhance productivity.
 * Further improvements like RBAC, WebSocket notifications, and tests can be added later.
 
 
-## 🧾 License
+# 🧾 License
 
 This project is licensed under the MIT License — you're free to use, modify, and distribute it.
 
 
-## 🙌 Acknowledgements
+# 🙌 Acknowledgements
 
 * OpenAI for code assistance
 * MongoDB Atlas for DB hosting
