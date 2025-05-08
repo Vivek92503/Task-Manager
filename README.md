@@ -151,7 +151,7 @@ npm run dev
 
 # 🧾 License
 
-This project is licensed under the MIT License(opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](opensource.org/licenses/MIT).
 
 
 # 🙌 Acknowledgements
