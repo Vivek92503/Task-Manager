@@ -4,7 +4,7 @@
 A full-stack Task Management System for small teams to manage, assign, and track tasks efficiently. Built using **Next.js**, **Express.js**, and **MongoDB** with features like authentication, task CRUD, user assignment, and filtering.
 
 
-# 📝 Table of Contents
+# Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -15,12 +15,12 @@ A full-stack Task Management System for small teams to manage, assign, and track
 - [License](#license)
 - [Acknowledgements](aAcknowledgements)
 
-# 📌 Introduction
+# Introduction
 
 This application is designed to help teams organize tasks, assign responsibilities, track deadlines, and streamline collaboration in a simple yet effective interface. It supports user authentication, team-based task assignments, and customizable filters for improved task visibility.
 
 
-# 🚀 Features
+# Features
 
 - 🔐 User Authentication (Register/Login)
 - 🧾 Full CRUD for Tasks (Create, Read, Update, Delete)
@@ -31,7 +31,7 @@ This application is designed to help teams organize tasks, assign responsibiliti
 - 🧰 Filter by Status, Priority, Due Date
 
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Frontend: **Next.js**, **Tailwind CSS**
 - Backend: **Node.js**, **Express.js**
@@ -74,7 +74,7 @@ task-manager-fullstack/
 ```
 
 
-# ⚙️ Setup Instructions
+# Setup Instructions
 
 ## 1. Clone Repository
 
@@ -125,7 +125,7 @@ npm run dev
 
 ---
 
-# ☁️ Deployment
+# Deployment
 
 ## Backend (Render)
 
@@ -142,19 +142,19 @@ npm run dev
 3. Deploy!
 
 
-# 📝 Note
+# Note
 
 * This project is built with a fresher-friendly architecture and simple implementation.
 * AI tools were used to generate boilerplate and enhance productivity.
 * Further improvements like RBAC, WebSocket notifications, and tests can be added later.
 
 
-# 🧾 License
+# License
 
 This project is licensed under the [MIT License](opensource.org/licenses/MIT).
 
 
-# 🙌 Acknowledgements
+# Acknowledgements
 
 * OpenAI for code assistance
 * MongoDB Atlas for DB hosting
