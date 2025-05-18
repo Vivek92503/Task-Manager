@@ -8,7 +8,6 @@ A full-stack Task Management System for small teams to manage, assign, and track
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [Deployment](#deployment)
 - [Notes](#notes)
@@ -48,31 +47,6 @@ This application is designed to help teams organize tasks, assign responsibiliti
 | Database   | MongoDB (via Mongoose) |
 | Auth       | JWT (JSON Web Tokens) |
 | Hosting    | Vercel (FE), Render (BE) |
-
-
-# 📁 Folder Structure
-
-```
-task-manager-fullstack/
-│
-├── backend/
-│   ├── server.js
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
-│   └── .env.example
-│
-├── frontend/
-│   ├── pages/
-│   ├── components/
-│   ├── styles/
-│   ├── public/
-│   └── .env.local.example
-│
-└── README.md
-```
-
 
 # Setup Instructions
 
@@ -142,7 +116,7 @@ npm run dev
 3. Deploy!
 
 
-# Note
+# Notes
 
 * This project is built with a fresher-friendly architecture and simple implementation.
 * AI tools were used to generate boilerplate and enhance productivity.
